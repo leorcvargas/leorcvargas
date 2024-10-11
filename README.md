@@ -8,7 +8,7 @@ I've been working with software development for 6 years, mostly creating cool an
 
 * 🌍  I'm based in Belo Horizonte, Brazil
 * ✉️  You can contact me at [leocarvalho.vargas@gmail.com](mailto:leocarvalho.vargas@gmail.com)
-* 🚀  I'm currently working at [Conta Simples](http://contasimples.com)
+* 🚀  I'm currently working at Dave as a contractor
 * 🧠  I'm learning Node.js advanced topics, Rust, Golang and Elixir
 
 ### Skills
